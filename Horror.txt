@@ -1,4 +1,4 @@
 M0	The Nun 	2018	96	Corin Hardy 	Horror	New Line Cinema	Demian Bichir 	English	
 M3	It	2017	135	Andy Muschietti 	Horror	Warner Bros Pictures	Jeaden Lieberher	English	
 M5	Split 	2017	117	M. Night Shyamalan	Horror	Blinding Edge Pictures	James McAvoy	English	
-M13	Spit	2010	100	Nikos Kouris	Horror	Warner Bros	Eleni Vera	English	
+M13	Spit	2010	100	Davis Joves	Horror	Warner Bros	Eleni Vera	English	
