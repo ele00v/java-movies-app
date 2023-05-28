@@ -1,0 +1,4 @@
+M7	The Hobbit	2012	474	peter Jackson	Fantasy	WingNut Films	Martin Freeman 	English	
+M8	Thor	2011	114	Kenneth Branagh	Fantasy	Marvel Studios	Chris Hemsworth	English 	
+M9	Spider-Man:No Way Home 	2021	148	Jon Watts	Fantasy	Colombia Pictures	Tom Holland	English	
+M10	Piretes of the Caribbean: On Strange Tides	2011	137	Rob Marshall 	Fantasy	Walt Disney Pictures	Jhonny Depp	English	
